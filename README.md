@@ -37,23 +37,18 @@ In my free time I am interested in personal development in the broadest sense, m
  
  
  # Tech skills in basics: #
- - Knowledge ISTQB FL
- - Creating test cases 
- - Creating scenarios
- - Reporting bugs
- - Functional testing
- - Software testing 
- - Regression testing 
- - Retesting testing
- - Exploratory testing
- - DevTools
- - SQL Queries
- - PostgreSQL
- - JIRA
- - TestLink 
- - TestRail
- - HTML,CSS
- - Using MS Office
+- Knowledge ISTQB FL
+- Creating scenarios
+- Creating test case
+- Reporting bugs
+- SQL queries
+- DevTools
+- Postman
+- Github
+- JIRA, YouTrack, qTest, Zephyr, TestLink
+- Familiarity with API testing theory
+- Proficiency of MS Office
+- HTML, CSS
  
  
  # Soft Skills
