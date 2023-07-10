@@ -1,7 +1,7 @@
 # JUNIOR SOFTWARE TESTER PORTFOLIO - Wojciech Świst 
 
 
-# About me #
+# :mag_right: ABOUT ME #
 
 <p align="justify">Hi my name is Wojtek. I am a communicative person, accurate, attentive to details, committed, able to work in a team. I am eager to learn new things and am focused on continuous development of my skills. I have 2 years of experience in the IT industry, related to service desk software implementation, testing and customer support. My goal is to develop my testing knowledge and technical skills. I learn on my own using courses, tutorials, webinars and Udemy marathons in the field and IT. I am currently working with Mentor Waldemar Szafraniec, author of the blog www.wyszkolewas.com.pl</p>
 
@@ -11,9 +11,6 @@
 
 
 ### <p align="center"><a href="https://www.linkedin.com/in/wojciech-%C5%9Bwist/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
-
-###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/ilustracja-koncepcji-testowania-kodu-oprogramowania_21532464.htm#page=2&query=tester%20oprogramowania&position=15&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p> 
-
 
 
 # My courses: #
