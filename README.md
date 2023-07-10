@@ -13,7 +13,7 @@
 ### <p align="center"><a href="https://www.linkedin.com/in/wojciech-%C5%9Bwist/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
 
-#########*Portfolio under development
+######### *Portfolio under development
 
 # My courses: #
 
