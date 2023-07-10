@@ -10,7 +10,10 @@
 <p align="justify">In my free time I am interested in personal development in the broadest sense, motorization I like trips to the mountains.</p>
 
 
-[LinkedIn account](https://www.linkedin.com/in/wojciech-%C5%9Bwist/)
+### <p align="center"><a href="https://www.linkedin.com/in/wojciech-%C5%9Bwist/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
+
+###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/ilustracja-koncepcji-testowania-kodu-oprogramowania_21532464.htm#page=2&query=tester%20oprogramowania&position=15&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p> 
+
 
 
 # My courses: #
