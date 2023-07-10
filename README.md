@@ -1,7 +1,7 @@
 # JUNIOR SOFTWARE TESTER PORTFOLIO - Wojciech Świst 
 
 
-# :mag_right: ABOUT ME #
+# :mag_right: About Me #
 
 <p align="justify">Hi my name is Wojtek. I am a communicative person, accurate, attentive to details, committed, able to work in a team. I am eager to learn new things and am focused on continuous development of my skills. I have 2 years of experience in the IT industry, related to service desk software implementation, testing and customer support. My goal is to develop my testing knowledge and technical skills. I learn on my own using courses, tutorials, webinars and Udemy marathons in the field and IT. I am currently working with Mentor Waldemar Szafraniec, author of the blog www.wyszkolewas.com.pl</p>
 
@@ -20,8 +20,7 @@
  - SQL basics course PostgreSQL (Udemy)
  - SQL basics course SQL Server (Udemy)
  - Git course (Udemy)
- - Praktyczny maraton goIT QA
- - Maraton goIT html
+ - 7-Day Marathon HTML+CSS - GoIT
 
 
 # Courses in progress: #
@@ -77,7 +76,7 @@
  
  # Books I read: #
  - "_Zawód Tester_", Radosław Smilgin
- - "_Testowanie oprogramowania w praktyce. Studium przypadków_", Red. Adam Roman, Karolina Zmitrowicz
+ - A.Roman, L.Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
  - Tester oprogramowania - wsparcie na starcie
  - Testowanie oprogramowania
 
@@ -88,9 +87,3 @@
  - wyszkolewas.com.pl
  - tester.milenabednarczyk.pl
  - testowanie-oprogramowania.pl/blog/
-
-
-# IT groups on Facebook I follow: #
- - Kurs Tester Manualny
- - [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
- - [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
